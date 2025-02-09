@@ -1,10 +1,22 @@
 - 👋 Hi, I’m @SoftwareChoreographer
-- 👀 I’m interested in Software & Web development, coding, and innovation.
-- 🌱 I’m currently learning APIs, Python, React.js, & Angular.
-- 💞️ I’m looking to collaborate on Open-source projects and software initiatives that make a positive impact.
-- 📫 How to reach me ...
+- 👀 I'm passionate about harnessing technology to drive positive change. My interests include software and web development, coding, and innovation.
+- 🌱 Currently, I'm expanding my skills in:
+#  Techinical Skills
+  # Frameworks & Tools
+    React.js
+    Angular
+    Vue.js
+    RESTful APIs
+
+  # Programming Languges
+    Python
+
+  #  Version Control
+    Git
+  
+- 💞️ I'm eager to collaborate on open-source projects and software initiatives that empower communities and promote social impact.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Inspired by the Divine, driven by Innovation
 
 <!---
 SoftwareChoreographer/SoftwareChoreographer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
