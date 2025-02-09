@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SoftwareChoreographer
+# 👋 Hi, I’m @SoftwareChoreographer
 - 👀 I'm passionate about harnessing technology to drive positive change. My interests include software and web development, coding, and innovation.
 - 🌱 Currently, I'm expanding my skills in:
 #  Techinical Skills
